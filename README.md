@@ -30,8 +30,8 @@ To evaluate and compare the performance of different regression models and ident
 
 | Metric | Value |
 |--------|-------|
-| Mean Absolute Error (MAE) | `2313.583` |
-| Mean Squared Error (MSE) | `8,320,060.233` |
+| Mean Absolute Error (MAE) | `.23` |
+| Mean Squared Error (MSE) | `.05` |
 | R² Score | `0.9990` |
 | Mean Absolute Percentage Error (MAPE) | `0.0163` |
 | Mean Squared Log Error (MSLE) | `0.0006` |
@@ -101,7 +101,7 @@ advertising-sales-regression/
 
 ## 👤 Author
 Ahmed Frahat  
-[LinkedIn Profile](https://www.linkedin.com) *(optional link)*
+[LinkedIn Profile](https://www.linkedin.com/in/ahmed-farahat-104077286/) 
 
 ---
 
